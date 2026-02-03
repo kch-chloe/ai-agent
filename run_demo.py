@@ -5,7 +5,7 @@ Force-runs KO strategy script from top to bottom.
 
 from pathlib import Path
 
-SCRIPT_PATH = Path(__file__).parent / "Ma_Suet_Nam_Technical_Agent" / "Ma_Suet_Nam_Technical_Agent.py"
+SCRIPT_PATH = Path(__file__).parent / "Ma_Suet_Nam_Technical_Agent(Agent_A)" / "Ma_Suet_Nam_Technical_Agent.py"
 
 def main():
     print("=== Running KO strategy demo ===")
