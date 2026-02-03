@@ -3,7 +3,7 @@
 This repository contains Group D’s **AI Analyst Agents** (Fundamental + Technical) for IFTE0001.  
 The **main runnable demo** for the group submission is the **Technical Agent A (Main)** located in:
 
-- `Ma_Suet_Nam_Technical_Agent/`
+- `Ma_Suet_Nam_Technical_Agent(Agent_A)/`
 
 `run_demo.py` (in the repo root) executes this main agent end-to-end.
 
@@ -13,9 +13,9 @@ The **main runnable demo** for the group submission is the **Technical Agent A (
 
 High-level folders (each member’s contribution is separated):
 
-- `Ma_Suet_Nam_Technical_Agent/` ✅ **Main Technical Agent (used by run_demo.py)**
-- `Ching_Hei_Chloe_Keung_Technical_Agent/`
-- `Ying_Shek_Isaac_Ho_Technical_Agent/`
+- `Ma_Suet_Nam_Technical_Agent(Agent_A)/` ✅ **Main Technical Agent (used by run_demo.py)**
+- `Ching_Hei_Chloe_Keung_Technical_Agent(Agent_B)/`
+- `Ying_Shek_Isaac_Ho_Technical_Agent(Agent_C)/`
 - `GUYU ZHANG Fundemental analysis/`
 - `Jingjing Zhang Fundamental Analyst Agent/`
 - `Wanyue Yao AI Agent/`
@@ -58,7 +58,7 @@ From the repo root:
 python run_demo.py
 ```
 
-run_demo.py will run the Technical Agent A (Main) implementation under: `Ma_Suet_Nam_Technical_Agent/`
+run_demo.py will run the Technical Agent A (Main) implementation under: `Ma_Suet_Nam_Technical_Agent(Agent_A)/`
 
 ### 4) Outputs
 Outputs will be located in `OUTPUT/` in repo root
